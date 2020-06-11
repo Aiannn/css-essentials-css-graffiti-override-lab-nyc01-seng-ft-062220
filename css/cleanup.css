@@ -7,7 +7,7 @@
   display: none;
 }
 
-#tag2 + #tag-3 {
+#tag2 + .slick wicked {
   display: none;
 }
 
